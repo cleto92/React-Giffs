@@ -1,1 +1,1 @@
-Mi Primera App desde 0
+React.JS y Fetch para conectar con una API de GIFs. Esta aplicación se centra en la búsqueda y visualización de GIFs. Usa React.JS para construir la interfaz de usuario y Fetch para realizar solicitudes a una API externa de GIFs, permitiendo a los usuarios buscar y visualizar una variedad de imágenes animadas.
